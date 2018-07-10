@@ -1,0 +1,1 @@
+Electric Wheelchair controlled using EEG headset. This project is developed using Python and LUA. Please message me at ckovuri16@gmail.com if you intend on reviewing the code or knowing more about how I created it. 
